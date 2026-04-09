@@ -1,7 +1,7 @@
 We're stopping by the grocery store too. Add some items here:
 
 Order:
--
+- 15 bananas
 -
 -
 -
