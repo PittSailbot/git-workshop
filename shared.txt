@@ -1,0 +1,18 @@
+We're going to Mickey D's. Add what you'd like to order here.
+- Try not to overwrite anyone's orders when you're merging your changes in!
+
+Order:
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
