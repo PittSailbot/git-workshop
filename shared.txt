@@ -3,7 +3,7 @@ We're going to Mickey D's. Add what you'd like to order here.
 
 Order:
 - 5 cheeseburgers
--
+- 2 fries
 -
 -
 -
