@@ -1,0 +1,3 @@
+Hello!
+This should be your first commit.
+Personally, I think I could take on a snake. Maybe even a wolf (granted not without significant injuries).
