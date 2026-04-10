@@ -5,6 +5,7 @@ Order:
 - 5 cheeseburgers
 - 2 fries
 - mcdonalds 
+- 22,477 Big Macs
 -
 -
 -
@@ -26,6 +27,10 @@ Order:
 -beef
 -onions
 -rice
+- 2 Gallons of 2% Milk
+-
+-
+-
 -
 -
 -
